@@ -1,0 +1,12 @@
+*.pem
+*.crt
+*.key
+*.p12
+*.jks
+*.der
+*.pfx
+*.asc
+*.gpg
+*.env
+certs/ca/*
+certs/localhost/*
